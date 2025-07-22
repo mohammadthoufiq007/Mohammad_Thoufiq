@@ -1,0 +1,7 @@
+name,age,income,gender,city,target
+John,32,62000,Male,Seattle,1
+Lisa,45,80000,Female,Boston,0
+Mark,29,45000,Male,Denver,1
+Nina,38,,Female,Miami,0
+Tom,,73000,Male,San Francisco,1
+Emma,26,51000,,Austin,0
